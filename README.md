@@ -2,7 +2,7 @@
 This is an assignment from the course 'Java advanced programing', 20554 at the Open University of Israel
 Assignment 13, Q (semester 2023A).
 
-Hang man is a famous one / many player game
+Hang man is a famous one / many player game.
 More info can be found in [Wikipedia](https://en.wikipedia.org/wiki/Hangman_(game))
 
 To run the project:

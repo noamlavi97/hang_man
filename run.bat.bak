@@ -1,0 +1,3 @@
+cd bin
+java bin.hang_man.HangMan
+pause
